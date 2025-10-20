@@ -1,0 +1,18 @@
+name: pytensor-tutorial
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python>=3.12
+  - pytensor
+  - numpy
+  - numba
+  - scikit-learn
+  - jax
+  - scipy
+  - matplotlib
+  - plotly
+  - jupyter
+  - notebook
+  - nbclassic
+  - anywidget
